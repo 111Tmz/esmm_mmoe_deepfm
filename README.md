@@ -13,3 +13,9 @@ pip install -r requirements.txt
 ## 参考
 * [多目标排序模型在腾讯QQ看点推荐中的应用实践](https://mp.weixin.qq.com/s/RwMYLZRsX2TGSQsU8PPhig)
 * [Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://openaccess.thecvf.com/content_cvpr_2018/html/Kendall_Multi-Task_Learning_Using_CVPR_2018_paper.html)
+
+---
+pip install uv
+uv venv --python python3.8
+【激活环境】
+pip install -r requirements.txt
