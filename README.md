@@ -16,6 +16,9 @@ pip install -r requirements.txt
 
 ---
 pip install uv
+
 uv venv --python python3.8
+
 【激活环境】
+
 pip install -r requirements.txt
