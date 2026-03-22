@@ -74,8 +74,8 @@ if __name__ == "__main__":
         "./data/adult.tr.tfrecords", train, sparse_features, dense_features, labels
     )
     write_tfrecord(
-        "./data/adult.te.tfrecords", validation, sparse_features, dense_features, labels
+        "./data/adult.te.tfrecords", test, sparse_features, dense_features, labels
     )
     write_tfrecord(
-        "./data/adult.va.tfrecords", test, sparse_features, dense_features, labels
+        "./data/adult.va.tfrecords", validation, sparse_features, dense_features, labels
     )
