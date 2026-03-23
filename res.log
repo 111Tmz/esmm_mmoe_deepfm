@@ -1,0 +1,7 @@
+{'loss': 3.9937342080520466e-05, 
+'label_income_loss': 0.3223147988319397, 
+'label_income_auc': 0.9045455455780029, 
+'label_marital_loss': 0.05182855203747749, 
+'label_marital_auc': 0.9273466467857361, 
+'label_education_loss': 0.2893342971801758, 
+'label_education_auc': 0.90464848279953}
